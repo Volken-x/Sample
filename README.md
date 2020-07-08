@@ -1,2 +1,2 @@
 # Sample
-Testing
+Testing the platform
